@@ -1,0 +1,106 @@
+[
+  {
+    "questionId": 0,
+    "text": "Lionel messi bir ilde nece qol vurmusdur?",
+    "answers": [
+      {
+        "answerId": 0,
+        "text": "91"
+      },
+      {
+        "answerId": 1,
+        "text": "85"
+      },
+      {
+        "answerId": 2,
+        "text": "69"
+      },
+      {
+        "answerId": 3,
+        "text": "96"
+      }
+    ],
+    "correctAnswer": {
+      "answerId": 0,
+      "text": "91"
+    }
+  }, 
+  {
+    "questionId": 1,
+    "text": "Dunyanin en yuksek zirvesi comoluqma nece metr hundurlukdedir?",
+    "answers": [
+      {
+        "answerId": 0,
+        "text": "6668"
+      },
+      {
+        "answerId": 1,
+        "text": "7487"
+      },
+      {
+        "answerId": 2,
+        "text": "8848"
+      },
+      {
+        "answerId": 3,
+        "text": "9124"
+      }
+    ],
+    "correctAnswer": {
+      "answerId": 2,
+      "text": "8848"
+    }
+  },
+  {
+    "questionId": 2,
+    "text": "0-100 km surete en tez catan masin hansidir?",
+    "answers": [
+      {
+        "answerId": 0,
+        "text": "Tesla"
+      },
+      {
+        "answerId": 1,
+        "text": "Mercedes"
+      },
+      {
+        "answerId": 2,
+        "text": "BMW"
+      },
+      {
+        "answerId": 3,
+        "text": "AUDI"
+      }
+    ],
+    "correctAnswer": {
+      "answerId": 0,
+      "text": "8848"
+    }
+  },
+  {
+    "questionId": 3,
+    "text": "Hansi proqramlasdirma dili bir defe calistir, her yerde islet suari ile meshur olmustur?",
+    "answers": [
+      {
+        "answerId": 0,
+        "text": "C#"
+      },
+      {
+        "answerId": 1,
+        "text": "Kotlin"
+      },
+      {
+        "answerId": 2,
+        "text": "Php"
+      },
+      {
+        "answerId": 3,
+        "text": "Java"
+      }
+    ],
+    "correctAnswer": {
+      "answerId": 3,
+      "text": "Java"
+    }
+  }
+]
